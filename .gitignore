@@ -1,0 +1,30 @@
+# Logs
+logs/
+*.log
+*.log.*
+*.err
+*.out
+
+# IDE
+.idea/
+*.iml
+.classpath
+.project
+.settings/
+
+# Compiled class files
+*.class
+
+# Package Files
+*.jar
+*.war
+*.ear
+
+# Maven
+target/
+
+# Gradle
+.gradle/
+build/
+.gradel.properties
+gradle/wrapper/gradle-wrapper.jar
